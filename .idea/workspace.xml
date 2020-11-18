@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fcbf52b1-9a07-401f-88d7-b7be76f8df14" name="Default Changelist" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -36,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605665229509</updated>
-      <workItem from="1605665235540" duration="3646000" />
+      <workItem from="1605665235540" duration="4601000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1605668248911</created>
@@ -45,11 +63,29 @@
       <option name="project" value="LOCAL" />
       <updated>1605668248912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1605670759959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605670759959</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
@@ -68,10 +104,10 @@
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2148" y="158" key="SettingsEditor/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605669464496" />
-    <state x="2247" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605669493046">
+    <state x="2247" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605670765059">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state x="2247" y="259" key="Vcs.Push.Dialog.v2/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605669493046" />
+    <state x="2247" y="259" key="Vcs.Push.Dialog.v2/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605670765059" />
     <state x="2288" y="314" key="git4idea.merge.GitPullDialog" timestamp="1605669487169">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
