@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcbf52b1-9a07-401f-88d7-b7be76f8df14" name="Default Changelist" comment="" />
+    <list default="true" id="fcbf52b1-9a07-401f-88d7-b7be76f8df14" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,12 +36,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605665229509</updated>
-      <workItem from="1605665235540" duration="1586000" />
+      <workItem from="1605665235540" duration="3646000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1605668248911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605668248912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2496" y="423" key="Github.ShareDialog" timestamp="1605668169990">
@@ -49,9 +64,17 @@
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2400" y="231" key="Github.UntrackedFilesDialog/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605668178225" />
-    <state x="2148" y="158" key="SettingsEditor" timestamp="1605668013157">
+    <state x="2148" y="158" key="SettingsEditor" timestamp="1605669464496">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state x="2148" y="158" key="SettingsEditor/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605668013157" />
+    <state x="2148" y="158" key="SettingsEditor/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605669464496" />
+    <state x="2247" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605669493046">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2247" y="259" key="Vcs.Push.Dialog.v2/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605669493046" />
+    <state x="2288" y="314" key="git4idea.merge.GitPullDialog" timestamp="1605669487169">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2288" y="314" key="git4idea.merge.GitPullDialog/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605669487169" />
   </component>
 </project>
