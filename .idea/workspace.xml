@@ -21,6 +21,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,11 +33,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605665229509</updated>
-      <workItem from="1605665235540" duration="1168000" />
+      <workItem from="1605665235540" duration="1586000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2496" y="423" key="Github.ShareDialog" timestamp="1605668169990">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2496" y="423" key="Github.ShareDialog/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605668169990" />
+    <state x="2400" y="231" key="Github.UntrackedFilesDialog" timestamp="1605668178225">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2400" y="231" key="Github.UntrackedFilesDialog/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605668178225" />
+    <state x="2148" y="158" key="SettingsEditor" timestamp="1605668013157">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2148" y="158" key="SettingsEditor/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605668013157" />
   </component>
 </project>
