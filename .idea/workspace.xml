@@ -20,6 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcbf52b1-9a07-401f-88d7-b7be76f8df14" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/behavicor/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/behavicor/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/behavicor/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/behavicor/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/behavicor/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/duck/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/duck/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/duck/TestDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +38,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:/WangDongDong1234/design-patterns.git" />
+        <option value="https://github.com/WangDongDong1234/design-patterns.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1kRZBd6O9lGmN7IY8fnGo2QUvOa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,8 +70,35 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch01.duck" />
+      <recent name="ch01" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestDuck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch01.duck.TestDuck" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch01.duck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDuck" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,7 +110,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605665229509</updated>
-      <workItem from="1605665235540" duration="4601000" />
+      <workItem from="1605665235540" duration="5021000" />
+      <workItem from="1606907000604" duration="3305000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1605668248911</created>
@@ -70,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605670759959</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1605682686500</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605682686500</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,12 +150,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2609" y="342" key="#com.intellij.ide.util.MemberChooser" timestamp="1606913106842">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2609" y="342" key="#com.intellij.ide.util.MemberChooser/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606913106842" />
     <state x="2496" y="423" key="Github.ShareDialog" timestamp="1605668169990">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
@@ -100,14 +169,30 @@
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2400" y="231" key="Github.UntrackedFilesDialog/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605668178225" />
+    <state width="1638" height="328" key="GridCell.Tab.0.bottom" timestamp="1606987396478">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="328" key="GridCell.Tab.0.bottom/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606987396478" />
+    <state width="1638" height="328" key="GridCell.Tab.0.center" timestamp="1606987396478">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="328" key="GridCell.Tab.0.center/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606987396478" />
+    <state width="1638" height="328" key="GridCell.Tab.0.left" timestamp="1606987396477">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="328" key="GridCell.Tab.0.left/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606987396477" />
+    <state width="1638" height="328" key="GridCell.Tab.0.right" timestamp="1606987396478">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="328" key="GridCell.Tab.0.right/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606987396478" />
     <state x="2148" y="158" key="SettingsEditor" timestamp="1605669464496">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2148" y="158" key="SettingsEditor/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605669464496" />
-    <state x="2247" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605670765059">
+    <state x="2247" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605682693868">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state x="2247" y="259" key="Vcs.Push.Dialog.v2/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605670765059" />
+    <state x="2247" y="259" key="Vcs.Push.Dialog.v2/0.23.1680.944/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605682693868" />
     <state x="2288" y="314" key="git4idea.merge.GitPullDialog" timestamp="1605669487169">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
